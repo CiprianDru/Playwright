@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "E2E Testing with Playwright",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "npx playwright test"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CiprianDru/Playwright.git"
